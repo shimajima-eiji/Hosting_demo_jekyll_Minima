@@ -20,8 +20,6 @@
 ```
 
 ## プレビュー
-<details>
-<summary>クリック・タップで展開</summary>
 
 # 見出し１
 ## 見出し２
@@ -89,14 +87,8 @@ X<sup>2</sup>: 上付き文字（コード不明のため、`sup`タグを使用
 | 標準 | 左寄せ | 中央 | 右 |
 
 \:kissing_closed_eyes: 絵文字
-
-</details>
 
 ## ソース
-
-<details>
-<summary>クリック・タップで展開</summary>
-
 ```
 # 見出し１
 ## 見出し２
@@ -165,5 +157,3 @@ X<sup>2</sup>: 上付き文字（コード不明のため、`sup`タグを使用
 
 \:kissing_closed_eyes: 絵文字
 ```
-
-</details>
