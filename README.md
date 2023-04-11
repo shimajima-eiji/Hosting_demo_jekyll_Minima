@@ -14,10 +14,13 @@
 - [GitHubリポジトリ](https://github.com/shimajima-eiji/Hosting_demo_jekyll_Minima)
 - [Jekyllテーマサイト](https://github.com/pages-themes/minima)
 
-</details>
-
 ### ソース
 ```
+
+# チートシート
+GitHubのREADME.mdでのプレビューの結果と異なる点に注目しよう。
+<br>
+テーブル記法や絵文字表記あたりが怪しい。
 
 ## プレビュー
 
@@ -54,8 +57,6 @@
   - 箇条書き２
   - 箇条書き２
 - 箇条書き１
-
-#### これは出来ない
 
 - 複合系
   1. 複合系
@@ -123,8 +124,6 @@ X<sup>2</sup>: 上付き文字（コード不明のため、`sup`タグを使用
   - 箇条書き２
   - 箇条書き２
 - 箇条書き１
-
-#### これは出来ない
 
 - 複合系
   1. 複合系
